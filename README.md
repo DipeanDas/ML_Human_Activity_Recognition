@@ -72,6 +72,6 @@ This project focuses on **Human Activity Recognition (HAR)** using data collecte
 
 ## 👤 Author
 
-Developed by **Dipean Dasgupta**  
-BTech CSE Graduate, AI & ML Enthusiast
-Feel free to fork, modify, and improve!
+Developed by **Dipean Dasgupta** <br> 
+BTech CSE Graduate, AI & ML Enthusiast <br><br>
+**Feel free to fork, modify, and improve!**
