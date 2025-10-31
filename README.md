@@ -1,8 +1,6 @@
-# Human Activity Recognition (HAR)
+# Human Activity Recognition System (HARS)
 
 This project focuses on **Human Activity Recognition (HAR)** using data collected from smartphones’ embedded sensors such as accelerometers and gyroscopes. The task is to classify physical activities (e.g., walking, sitting, standing, etc.) based on extracted features.
-
----
 
 ## 📌 Dataset Info
 
@@ -17,7 +15,6 @@ This project focuses on **Human Activity Recognition (HAR)** using data collecte
   - Walking Upstairs  
   - Walking Downstairs  
 
----
 
 ## 🔬 Methodology
 
@@ -49,7 +46,6 @@ This project focuses on **Human Activity Recognition (HAR)** using data collecte
      - Best: `n_estimators=100, max_depth=14`  
      - Accuracy: **91.6%**  
 
----
 
 ## 📊 Results
 
@@ -58,15 +54,12 @@ This project focuses on **Human Activity Recognition (HAR)** using data collecte
 - Ensemble methods (Random Forest) showed competitive results but slightly lower accuracy compared to SVM.  
 - Decision Tree underperformed relative to other approaches.  
 
----
 
 ## 🛠 Technologies and Packages Used
 
 - Python (Jupyter Notebook)  
 - NumPy, Pandas, Matplotlib, Seaborn  
 - scikit-learn (Logistic Regression, SVM, Decision Tree, Random Forest)  
-
----
 
 ---
 
